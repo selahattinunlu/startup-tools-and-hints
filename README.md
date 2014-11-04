@@ -1,9 +1,18 @@
-startup-tools-and-hints
+Startup Araç ve İpuçları
 =======================
 
-Startup Araç ve İpuçları
+- [Arayüz](#arayüz)
+- [Canlı Destek](#canlı destek)
+- [Mailing](#mailing)
+- [Seo](#seo)
+- [Santral Çözümleri](#santral çözümleri)
+- [Ödeme Sistemleri](#ödeme sistemleri)
+- [Sunucu Çözümleri](#sunucu çözümleri)
+- [Ücretsiz İkon Tasarım PSD](#ücretsiz ikon template psd)
+- [Growth Hacking](#growth hacking)
+- [Ölçümleme & Analytics](#ölçümleme & analytics)
 
-## Arayüz Tasarlamak İçin
+## Arayüz
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
 
@@ -33,7 +42,7 @@ Startup Araç ve İpuçları
 - www.digitalocean.com
 - http://aws.amazon.com/ec2/
 
-## Ücretsiz İcon & Template & PSD 
+## Ücretsiz İcon Template PSD 
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
 - https://www.behance.net/search?content=projects&user_tags=973679
