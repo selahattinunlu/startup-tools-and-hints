@@ -81,6 +81,9 @@ Startup Araç ve İpuçları
 ## Takım İçi İletişim
 - http://www.slack.com
 
+## Sunucu Yönetimi
+- https://commando.io/
+
 ## Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
