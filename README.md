@@ -85,6 +85,11 @@ Startup Araç ve İpuçları
 ## Sunucu Yönetimi
 - https://commando.io/
 
+## Proje Yönetim Araçları
+- https://producteev.com/
+- http://trello.com
+- http://podio.com
+
 ## Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
