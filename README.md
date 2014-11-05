@@ -62,6 +62,7 @@ Startup Araç ve İpuçları
 
 ## Ölçümleme & Analytics 
 - http://www.google.com/analytics/
+- https://www.kissmetrics.com/
 - https://metrica.yandex.com.tr 
 - http://www.webanalitigi.com/olcumleme-araclari/
 - http://www.intercom.io 
