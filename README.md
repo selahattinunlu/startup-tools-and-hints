@@ -12,6 +12,9 @@ Startup Araç ve İpuçları
 - [Growth Hacking](#growth hacking)
 - [Ölçümleme & Analytics](#ölçümleme & analytics)
 
+## Prototip Aracı
+- http://www.invisionapp.com/
+
 ## Arayüz
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
@@ -19,9 +22,10 @@ Startup Araç ve İpuçları
 ## Site Trafiğini Büyütmek İçin
 - http://sumome.com/
 
-## Canlı Destek
+## Müşteri Destek Servisleri
 - www.zopim.com
 - www.jivochat.com
+- http://www.zendesk.com/
 
 ## Mailing
 - www.mailjet.com
@@ -66,12 +70,16 @@ Startup Araç ve İpuçları
 - https://metrica.yandex.com.tr 
 - http://www.webanalitigi.com/olcumleme-araclari/
 - http://www.intercom.io 
+- https://segment.com/
 
 ##### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
 ## A/B Test Araçları
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
+
+## Takım İçi İletişim
+- http://www.slack.com
 
 ## Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
