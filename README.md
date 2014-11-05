@@ -70,6 +70,9 @@ Startup Araç ve İpuçları
 ##### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
+## A/B Test Araçları
+- https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
+
 ## Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
