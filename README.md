@@ -89,6 +89,7 @@ Startup Araç ve İpuçları
 - https://producteev.com/
 - http://trello.com
 - http://podio.com
+- https://www.atlassian.com/software/jira
 
 ## Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
