@@ -75,5 +75,6 @@ Startup Araç ve İpuçları
 - http://www.producthunt.com/e/startup-toolkit
 - http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
 - http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
+- https://www.hellobar.com/
 
 
