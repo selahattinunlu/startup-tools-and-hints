@@ -97,6 +97,9 @@ Startup Araç ve İpuçları
 #### Medya Takip Araçları
 - http://mention.com
 
+#### Big Data 
+- https://www.feedzai.com/
+
 #### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
