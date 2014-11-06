@@ -104,6 +104,7 @@ Startup Araç ve İpuçları
 - http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
 - https://www.hellobar.com/
 - https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
+- https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
 
 # Makaleler
 
