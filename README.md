@@ -12,60 +12,60 @@ Startup Araç ve İpuçları
 - [Growth Hacking](#growth hacking)
 - [Ölçümleme & Analytics](#ölçümleme & analytics)
 
-## Prototip Aracı
+#### Prototip Aracı
 - http://www.invisionapp.com/
 
-## Arayüz
+#### Arayüz
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
 
-## Site Trafiğini Büyütmek İçin
+#### Site Trafiğini Büyütmek İçin
 - http://sumome.com/
 
-## Müşteri Destek Servisleri
+#### Müşteri Destek Servisleri
 - www.zopim.com
 - www.jivochat.com
 - http://www.zendesk.com/
 
-## Mailing
+#### Mailing
 - www.mailjet.com
 - www.mailchimp.com
 
-## SEO
+#### SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
 - http://seozeo.com.tr/
 
-## Santral Çözümler
+#### Santral Çözümler
 - http://bulutfon.com
 
-## Ödeme Sistemleri
+#### Ödeme Sistemleri
 - www.payu.com.tr
 - https://www.iyzico.com/
 
-## Sunucu Çözümleri
+#### Sunucu Çözümleri
 - www.digitalocean.com
 - http://aws.amazon.com/ec2/
 
-## Ücretsiz İcon Template PSD 
+#### Ücretsiz İcon Template PSD 
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
 - https://www.behance.net/search?content=projects&user_tags=973679
 - http://www.cssauthor.com/freebies/
 
-## Growth Hacking 
+#### Growth Hacking 
 - http://eticaretdergisi.com/growth-hacking-nedir.html
 - http://www.etohum.com/onlineda-satislari-artirmak-icin-growth-hackerin-3-temel-stratejisi
 - http://mertricks.com/category/growth-hacking-2/
 - http://mertricks.com/
 
-## Hızlandırma Programları
+#### Hızlandırma Programları
 - http://www.turn8.co/
 
-## API Oluşturma Araçları
+#### API Oluşturma Araçları
 - https://magic.import.io/ 
 - https://www.kimonolabs.com/
 
-## Ölçümleme & Analytics 
+#### Ölçümleme & Analytics 
 - http://www.google.com/analytics/
 - https://www.kissmetrics.com/
 - https://metrica.yandex.com.tr 
@@ -73,29 +73,37 @@ Startup Araç ve İpuçları
 - http://www.intercom.io 
 - https://segment.com/
 
-##### Ölçümleme & Analytics Makale ve Bloglar
+###### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
-## A/B Test Araçları
+#### A/B Test Araçları
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
 
-## Takım İçi İletişim
+#### Takım İçi İletişim
 - http://www.slack.com
 
-## Sunucu Yönetimi
+#### Sunucu Yönetimi
 - https://commando.io/
 
-## Proje Yönetim Araçları
+#### Proje Yönetim Araçları
 - https://producteev.com/
 - http://trello.com
 - http://podio.com
 - https://www.atlassian.com/software/jira
 
-## Diğer Araçlar
+#### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
 - http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
 - http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
 - https://www.hellobar.com/
 
+# Makaleler
+
+#### Renklerin Önemi 
+- http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
+- http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
+- http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
+- http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
+- http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
 
