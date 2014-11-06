@@ -94,6 +94,9 @@ Startup Araç ve İpuçları
 #### Güvenlik Araçları
 - https://detectify.com/
 
+#### Medya Takip Araçları
+- http://mention.com
+
 #### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
