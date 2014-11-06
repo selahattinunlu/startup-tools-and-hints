@@ -118,3 +118,7 @@ Startup Araç ve İpuçları
 - http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
 - http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
 
+#### A/B Testi
+- http://www.userspots.com/ab-testi/
+- http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
+
