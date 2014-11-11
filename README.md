@@ -100,6 +100,9 @@ Startup Araç ve İpuçları
 #### Big Data 
 - https://www.feedzai.com/
 
+#### Web Site Analiz Araçları
+- http://quicksprout.com (SEO, Sosyal Medya vb yönlerde)
+
 #### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
