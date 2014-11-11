@@ -102,6 +102,9 @@ Startup Araç ve İpuçları
 
 #### Web Site Analiz Araçları
 - http://quicksprout.com (SEO, Sosyal Medya vb yönlerde)
+- http://yslow.org/
+- http://www.google.com/webmasters/
+- http://gtmetrix.com/
 
 #### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
