@@ -73,6 +73,7 @@ Startup Araç ve İpuçları
 - http://www.webanalitigi.com/olcumleme-araclari/
 - http://www.intercom.io 
 - https://segment.com/
+- http://www.crazyegg.com/
 
 ###### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
@@ -107,6 +108,12 @@ Startup Araç ve İpuçları
 - http://yslow.org/
 - http://www.google.com/webmasters/
 - http://gtmetrix.com/
+
+#### Anket Araçları
+- http://www.surveymonkey.com
+
+#### Web Site Browser Test Araçları
+- http://www.browserstack.com/
 
 #### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
