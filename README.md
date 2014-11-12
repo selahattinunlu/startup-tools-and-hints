@@ -30,6 +30,7 @@ Startup Araç ve İpuçları
 #### Mailing
 - www.mailjet.com
 - www.mailchimp.com
+- http://www.getresponse.com.tr/
 
 #### SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
