@@ -35,6 +35,7 @@ Startup Araç ve İpuçları
 #### SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
 - http://seozeo.com.tr/
+- http://www.link-assistant.com/
 
 #### Santral Çözümler
 - http://bulutfon.com
