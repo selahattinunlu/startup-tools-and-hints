@@ -26,6 +26,7 @@ Startup Araç ve İpuçları
 - www.zopim.com
 - www.jivochat.com
 - http://www.zendesk.com/
+- http://www.desk.com/
 
 #### Mailing
 - www.mailjet.com
@@ -94,6 +95,7 @@ Startup Araç ve İpuçları
 - http://trello.com
 - http://podio.com
 - https://www.atlassian.com/software/jira
+- https://dapulse.com/
 
 #### Güvenlik Araçları
 - https://detectify.com/
