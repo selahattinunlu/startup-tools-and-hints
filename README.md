@@ -120,6 +120,7 @@ Startup Araç ve İpuçları
 
 #### Muhasebe Araçları
 - https://www.waveapps.com/
+- http://parasut.com
 
 #### Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
