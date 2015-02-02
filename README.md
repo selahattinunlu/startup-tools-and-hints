@@ -6,18 +6,32 @@ Startup Araç ve İpuçları
 - [Mailing](#mailing)
 - [Seo](#seo)
 - [Santral Çözümleri](#santral çözümleri)
-- [Ödeme Sistemleri](#ödeme sistemleri)
+- [Faturalama ve Ödeme Süreçleri](#ödeme sistemleri)
 - [Sunucu Çözümleri](#sunucu çözümleri)
 - [Ücretsiz İkon Tasarım PSD](#ücretsiz ikon template psd)
 - [Growth Hacking](#growth hacking)
 - [Ölçümleme & Analytics](#ölçümleme & analytics)
+- [Marketing](#Video & Caps)
+- [Müşteri Desteği](#Crm)
+- [Ürünü Yayına Alma](#Yardım Masaları)
+- [İnsan Kaynaklari](#Ik)
+- [Log İzleme](#Log)
+- [Arama](#Search)
+- [Muhasebe](#Finance)
 
 #### Prototip Aracı
 - http://www.invisionapp.com/
+- http://www.proto.io
+- http://www.tapcanvas.com
 
 #### Arayüz
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
+- http://www.pixelapse.com
+- http://www.conceptShare.com
+- http://www.notableapp.com
+- http://www.layervault.com
+- http://www.invisionapp.com
 
 #### Site Trafiğini Büyütmek İçin
 - http://sumome.com/
@@ -32,30 +46,51 @@ Startup Araç ve İpuçları
 - www.mailjet.com
 - www.mailchimp.com
 - http://www.getresponse.com.tr/
+- http://www.sendloop.com
+- http://www.userfox.com
 
 #### SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
 - http://seozeo.com.tr/
 - http://www.link-assistant.com/
+- http://www.prettytracker.com
+- http://www.ahrefs.com
+- https://serpbook.com
+- http://www.serprank.com
 
 #### Santral Çözümler
 - http://bulutfon.com
 
-#### Ödeme Sistemleri
+#### Faturalama ve Ödeme Süreçleri
 - www.payu.com.tr
 - https://www.iyzico.com/
+- https://www.braintreepayments.com
+- https://www.balancedpayments.com
+- https://www.dwolla.com
+- https://www.stripe.com
+- https://www.pin.net.au
+- https://www.paymill.com
+- https://www.recurly.com
+- https://www.chargify.com
+- https://www.spreedly.com
+- https://www.core.spreedly.com
+- https://www.wepay.com
 
 #### Sunucu Çözümleri
-- www.digitalocean.com
+- http://www.digitalocean.com
 - http://aws.amazon.com/ec2/
+- http://www.bustaname.com
+- http://www.linode.com
+- http://www.ramnode.com
+- http://www.vultr.com
 
-#### Ücretsiz İcon Template PSD 
+#### Ücretsiz İcon Template PSD
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
 - https://www.behance.net/search?content=projects&user_tags=973679
 - http://www.cssauthor.com/freebies/
 
-#### Growth Hacking 
+#### Growth Hacking
 - http://eticaretdergisi.com/growth-hacking-nedir.html
 - http://www.etohum.com/onlineda-satislari-artirmak-icin-growth-hackerin-3-temel-stratejisi
 - http://mertricks.com/category/growth-hacking-2/
@@ -65,15 +100,17 @@ Startup Araç ve İpuçları
 - http://www.turn8.co/
 
 #### API Oluşturma Araçları
-- https://magic.import.io/ 
+- https://magic.import.io/
 - https://www.kimonolabs.com/
+- http://www.optlook.net
+- http://deployd.com/
 
-#### Ölçümleme & Analytics 
+#### Ölçümleme & Analytics
 - http://www.google.com/analytics/
 - https://www.kissmetrics.com/
-- https://metrica.yandex.com.tr 
+- https://metrica.yandex.com.tr
 - http://www.webanalitigi.com/olcumleme-araclari/
-- http://www.intercom.io 
+- http://www.intercom.io
 - https://segment.com/
 - http://www.crazyegg.com/
 
@@ -86,6 +123,20 @@ Startup Araç ve İpuçları
 
 #### Takım İçi İletişim
 - http://www.slack.com
+- https://hall.com
+- http://www.kandan
+- http://www.yammer.com
+- http://www.limechat
+- http://www.flowdock
+- http://www.hipchat.com
+- http://www.campfire
+- http://www.skype.com
+- http://www.gotomeeting.com/online/default
+- http://www.irccloud.com
+- http://www.kato.im
+- http://www.convo.com
+- http://www.sqwiggle.com
+
 
 #### Sunucu Yönetimi
 - https://commando.io/
@@ -96,6 +147,7 @@ Startup Araç ve İpuçları
 - http://podio.com
 - https://www.atlassian.com/software/jira
 - https://dapulse.com/
+- https://www.asana.com/
 
 #### Güvenlik Araçları
 - https://detectify.com/
@@ -103,7 +155,7 @@ Startup Araç ve İpuçları
 #### Medya Takip Araçları
 - http://mention.com
 
-#### Big Data 
+#### Big Data
 - https://www.feedzai.com/
 
 #### Web Site Analiz Araçları
@@ -133,7 +185,7 @@ Startup Araç ve İpuçları
 
 # Makaleler
 
-#### Renklerin Önemi 
+#### Renklerin Önemi
 - http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
 - http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
 - http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
@@ -144,3 +196,104 @@ Startup Araç ve İpuçları
 - http://www.userspots.com/ab-testi/
 - http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
 
+#### Marketing
+- http://www.goanimate.com
+
+  #E-posta Pazarlama
+  - http://www.customer.io
+  - http://www.getvero.com
+  - http://www.mailChimp
+  - http://www.campaignmonitor.com
+  - http://www.intercom.io
+
+#### Müşteri Desteği / Yardım Masaları
+- http://www.uservoice.com
+- http://www.desk.com
+- http://www.helpscout.net
+- http://www.zendesk.com
+- http://www.groovehq.com
+- http://www.intercom.io
+- http://www.tenderapp.com
+- http://www.supportfu.com
+- http://www.freshdesk.com
+- http://www.userdeck.com
+- http://www.sirportly.com
+- http://www.olark.com
+- http://www.snapengage.com
+
+#### Ürünü Yayına Alma
+- http://www.getchef.com
+- http://www.fabfile.org
+- http://www.puppetlabs.com
+- http://www.ansible.com
+- http://www.vagrantup.com
+
+#### İnsan Kaynakları
+- http://www.workday.com
+- http://www.lever.co
+
+#### Entegrasyon Sürekliliği/Kod Kalitesi
+- http://www.travis-ci.org
+- http://www.appveyor.com
+- http://www.circleci.com
+- http://www.codeclimate.com
+- http://www.semaphoreapp.com
+- http://www.cruisecontrolrb.thoughtworks.com
+- http://www.integrityapp.com
+- http://www.tddium.com
+- http://www.semaphoreapp.com
+- http://www.jenkins-ci.org
+- http://www.atlassian.com/software/bamboo
+- http://www.buildbox.io
+
+#### Log İzleme
+- http://www.loggly.com
+- http://www.papertrailapp.com
+- http://www.logentries.com
+- http://www.sumologic.com
+- http://www.github.com/etsy/statsd
+- http://www.graphite.wikidot.com
+- http://www.graylog2.org
+- http://www.graphdat.com
+- http://www.stackify.com
+
+#### Trafik Kaynakları/Reklam Platformları
+- http://www.neoreach.com
+- http://www.nrelate.com
+- http://www.sitescout.com
+- http://www.advertise.bingads.microsoft.com/en-us/home
+- http://www.taboola.com
+- http://www.outbrain.com
+- http://www.adwords.google.com
+- http://www.facebook.com/advertising
+- http://www.adwords.google.com/
+- http://www.facebook.com/advertising
+
+#### Arama
+- http://www.bonsai.io
+- http://www.websolr.com
+- http://www.swiftype.com
+- http://www.searchify.com
+- http://www.aws.amazon.com/cloudsearch
+- http://www.searchblox.com
+
+#### Sistem İzleme
+- http://www.appneta.com
+- http://www.riemann.io
+- http://www.github.com/twitter/zipkin
+- http://www.github.com/heroku/pulse
+- http://www.pingdom.com
+- http://www.uptimerobot.com
+- http://www.wheresitup.com
+
+#### Muhasebe/Faturalama
+- http://www.getharvest.com
+- http://www.getballpark.com
+- http://www.paysimple.com
+- http://www.acceptpay.com
+- http://www.freshbooks.com
+- http://www.freeagent.com
+- http://www.blinksale.com
+- http://www.cashboardapp.com
+- http://www.paydirtapp.com
+- http://www.spiketime.net
