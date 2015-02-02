@@ -124,7 +124,7 @@ Startup Araç ve İpuçları
 #### Takım İçi İletişim
 - http://www.slack.com
 - https://hall.com
-- http://www.kandan
+- http://www.kandanapp.com
 - http://www.yammer.com
 - http://www.limechat
 - http://www.flowdock
