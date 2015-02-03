@@ -1,16 +1,24 @@
 Startup Araç ve İpuçları
 =======================
 
-- [Arayüz](#arayüz)
-- [Canlı Destek](#canlı destek)
-- [Mailing](#mailing)
+- [Prototip Araçları](#prototip-arac%C4%B1)
+- [Arayüz](#arayuz)
+- [Müşteri Destek Servisleri](#m%C3%BC%C5%9Fteri-destek-servisleri)
+- [Pazarlama](#pazarlama)
 - [Seo](#seo)
-- [Santral Çözümleri](#santral çözümleri)
-- [Faturalama ve Ödeme Süreçleri](#ödeme sistemleri)
-- [Sunucu Çözümleri](#sunucu çözümleri)
-- [Ücretsiz İkon Tasarım PSD](#ücretsiz ikon template psd)
-- [Growth Hacking](#growth hacking)
-- [Ölçümleme & Analytics](#ölçümleme & analytics)
+- [Santral Çözümleri](#santral-%C3%87%C3%B6z%C3%BCmler)
+- [Sanal Pos & Ödeme Çözümleri](#faturalama-ve-%C3%96deme-s%C3%BCre%C3%A7leri)
+- [Sunucu Çözümleri](#sunucu-%C3%87%C3%B6z%C3%BCmleri)
+- [Ücretsiz İkon Tasarım PSD](#%C3%9Ccretsiz-%C4%B0con-template-psd)
+- [Growth Hacking](#growth-hacking)
+- [Ölçümleme & Analytics](#%C3%96l%C3%A7%C3%BCmleme--analytics)
+- [A/B Test Araçları](#ab-test-ara%C3%A7lar%C4%B1)
+- [Takım İçi İletişim](#tak%C4%B1m-%C4%B0%C3%A7i-%C4%B0leti%C5%9Fim)
+- [Sunucu Yönetimi](#sunucu-y%C3%B6netimi)
+- [Proje Yönetim Araçları](#proje-y%C3%B6netim-ara%C3%A7lar%C4%B1)
+- [Güvenlik](#g%C3%BCvenlik-ara%C3%A7lar%C4%B1)
+- [Medya Takip Araçları](#medya-takip-ara%C3%A7lar%C4%B1)
+- [Big Data](#big-data)
 - [Marketing](#Video & Caps)
 - [Müşteri Desteği](#Crm)
 - [Ürünü Yayına Alma](#Yardım Masaları)
@@ -18,6 +26,7 @@ Startup Araç ve İpuçları
 - [Log İzleme](#Log)
 - [Arama](#Search)
 - [Muhasebe](#Finance)
+- [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
 #### Prototip Aracı
 - http://www.invisionapp.com/
@@ -41,13 +50,31 @@ Startup Araç ve İpuçları
 - www.jivochat.com
 - http://www.zendesk.com/
 - http://www.desk.com/
+- http://www.uservoice.com
+- http://www.helpscout.net
+- http://www.groovehq.com
+- http://www.intercom.io
+- http://www.tenderapp.com
+- http://www.supportfu.com
+- http://www.freshdesk.com
+- http://www.userdeck.com
+- http://www.sirportly.com
+- http://www.olark.com
+- http://www.snapengage.com
 
-#### Mailing
-- www.mailjet.com
-- www.mailchimp.com
-- http://www.getresponse.com.tr/
-- http://www.sendloop.com
-- http://www.userfox.com
+#### Pazarlama
+- http://www.goanimate.com
+
+  ##### E-posta Pazarlama
+  - http://www.customer.io
+  - http://www.getvero.com
+  - http://www.mailchimp.com
+  - http://www.campaignmonitor.com
+  - http://www.intercom.io
+  - http://www.mailjet.com
+  - http://www.getresponse.com.tr/
+  - http://www.sendloop.com
+  - http://www.userfox.com
 
 #### SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
@@ -61,8 +88,8 @@ Startup Araç ve İpuçları
 #### Santral Çözümler
 - http://bulutfon.com
 
-#### Faturalama ve Ödeme Süreçleri
-- www.payu.com.tr
+#### Sanal Pos & Ödeme Entegrasyonları
+- http://www.payu.com.tr
 - https://www.iyzico.com/
 - https://www.braintreepayments.com
 - https://www.balancedpayments.com
@@ -137,7 +164,6 @@ Startup Araç ve İpuçları
 - http://www.convo.com
 - http://www.sqwiggle.com
 
-
 #### Sunucu Yönetimi
 - https://commando.io/
 
@@ -170,56 +196,19 @@ Startup Araç ve İpuçları
 #### Web Site Browser Test Araçları
 - http://www.browserstack.com/
 
-#### Muhasebe Araçları
+#### Muhasebe ve Faturalama Araçları
 - https://www.waveapps.com/
 - http://parasut.com
-
-#### Diğer Araçlar
-- http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
-- http://www.producthunt.com/e/startup-toolkit
-- http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
-- http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
-- https://www.hellobar.com/
-- https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
-- https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
-
-# Makaleler
-
-#### Renklerin Önemi
-- http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
-- http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
-- http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
-- http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
-- http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
-
-#### A/B Testi
-- http://www.userspots.com/ab-testi/
-- http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
-
-#### Marketing
-- http://www.goanimate.com
-
-  #E-posta Pazarlama
-  - http://www.customer.io
-  - http://www.getvero.com
-  - http://www.mailChimp
-  - http://www.campaignmonitor.com
-  - http://www.intercom.io
-
-#### Müşteri Desteği / Yardım Masaları
-- http://www.uservoice.com
-- http://www.desk.com
-- http://www.helpscout.net
-- http://www.zendesk.com
-- http://www.groovehq.com
-- http://www.intercom.io
-- http://www.tenderapp.com
-- http://www.supportfu.com
-- http://www.freshdesk.com
-- http://www.userdeck.com
-- http://www.sirportly.com
-- http://www.olark.com
-- http://www.snapengage.com
+- http://www.getharvest.com
+- http://www.getballpark.com
+- http://www.paysimple.com
+- http://www.acceptpay.com
+- http://www.freshbooks.com
+- http://www.freeagent.com
+- http://www.blinksale.com
+- http://www.cashboardapp.com
+- http://www.paydirtapp.com
+- http://www.spiketime.net
 
 #### Ürünü Yayına Alma
 - http://www.getchef.com
@@ -286,14 +275,25 @@ Startup Araç ve İpuçları
 - http://www.uptimerobot.com
 - http://www.wheresitup.com
 
-#### Muhasebe/Faturalama
-- http://www.getharvest.com
-- http://www.getballpark.com
-- http://www.paysimple.com
-- http://www.acceptpay.com
-- http://www.freshbooks.com
-- http://www.freeagent.com
-- http://www.blinksale.com
-- http://www.cashboardapp.com
-- http://www.paydirtapp.com
-- http://www.spiketime.net
+#### Diğer Araçlar
+- http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
+- http://www.producthunt.com/e/startup-toolkit
+- http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
+- http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
+- https://www.hellobar.com/
+- https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
+- https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
+
+# Makaleler
+
+  #### Renklerin Önemi
+  - http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
+  - http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
+  - http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
+  - http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
+  - http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
+
+  ##### A/B Testi
+  - http://www.userspots.com/ab-testi/
+  - http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
+
