@@ -28,12 +28,12 @@ Startup Araç ve İpuçları
 - [Muhasebe](#Finance)
 - [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
-####Prototip Aracı
+####Prototip Araclari
 - http://www.invisionapp.com/
 - http://www.proto.io
 - http://www.tapcanvas.com
 
-####Arayüz
+####Arayuz
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
 - http://www.pixelapse.com
