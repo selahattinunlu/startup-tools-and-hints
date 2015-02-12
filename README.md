@@ -1,14 +1,14 @@
 Startup Araç ve İpuçları
 =======================
 
-- [Prototip Araçları](#Prototip-Araclari)
+- [Prototip Araçları](#prototip-araclari)
 - [Arayüz](#arayuz)
 - [Müşteri Destek Servisleri](#musteri-destek-servisleri)
 - [Site Trafiğini Büyütme](#site-trafigini-buyutmek-icin)
 - [Pazarlama](#pazarlama)
 - [Seo](#seo)
 - [Santral Çözümleri](#santral-cozumleri)
-- [Sanal Pos & Ödeme Çözümleri](#Sanal-Pos-Odeme-Entegrasyonlari)
+- [Sanal Pos & Ödeme Çözümleri](#sanal-pos-odeme-entegrasyonlari)
 - [Sunucu Çözümleri](#Sunucu-Cozumleri)
 - [Ücretsiz İkon Tasarım PSD](#Ucretsiz-Icon-Template-PSD)
 - [Growth Hacking](#growth-hacking)
