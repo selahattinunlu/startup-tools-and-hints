@@ -1,7 +1,7 @@
 Startup Araç ve İpuçları
 =======================
 
-- [Prototip Araci](#prototip-araci)
+- [Prototip Araci](#prototip-araclari)
 - [Arayüz](#Arayüz)
 - [Müşteri Destek Servisleri](#m%C3%BC%C5%9Fteri-destek-servisleri)
 - [Pazarlama](#pazarlama)
