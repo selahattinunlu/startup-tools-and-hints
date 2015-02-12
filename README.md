@@ -1,8 +1,8 @@
 Startup Araç ve İpuçları
 =======================
 
-- [Prototip Araçları](#prototip-aracı)
-- [Arayüz](#arayuz)
+- [Prototip Araçları](#Prototip-aracı)
+- [Arayüz](#Arayüz)
 - [Müşteri Destek Servisleri](#m%C3%BC%C5%9Fteri-destek-servisleri)
 - [Pazarlama](#pazarlama)
 - [Seo](#seo)
@@ -33,7 +33,7 @@ Startup Araç ve İpuçları
 - http://www.proto.io
 - http://www.tapcanvas.com
 
-#### Arayüz
+####Arayüz
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
 - http://www.pixelapse.com
