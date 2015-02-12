@@ -1,18 +1,21 @@
 Startup Araç ve İpuçları
 =======================
 
-- [Prototip Aracları](#prototip-aracları)
-- [Arayüz](#Arayüz)
-- [Müşteri Destek Servisleri](#m%C3%BC%C5%9Fteri-destek-servisleri)
+- [Prototip Araçları](#prototip-araçları)
+- [Arayüz](#Arayuz)
+- [Müşteri Destek Servisleri](#musteri-destek-servisleri)
+- [Site Trafiğini Büyütme](#site-trafigini-buyutmek-icin)
 - [Pazarlama](#pazarlama)
 - [Seo](#seo)
-- [Santral Çözümleri](#santral-%C3%87%C3%B6z%C3%BCmler)
-- [Sanal Pos & Ödeme Çözümleri](#faturalama-ve-%C3%96deme-s%C3%BCre%C3%A7leri)
-- [Sunucu Çözümleri](#sunucu-%C3%87%C3%B6z%C3%BCmleri)
-- [Ücretsiz İkon Tasarım PSD](#%C3%9Ccretsiz-%C4%B0con-template-psd)
+- [Santral Çözümleri](#santral-cozumleri)
+- [Sanal Pos & Ödeme Çözümleri](#Sanal-Pos--Odeme-Entegrasyonlari)
+- [Sunucu Çözümleri](#Sunucu-Cozumleri)
+- [Ücretsiz İkon Tasarım PSD](#Ucretsiz-Icon-Template-PSD)
 - [Growth Hacking](#growth-hacking)
-- [Ölçümleme & Analytics](#%C3%96l%C3%A7%C3%BCmleme--analytics)
-- [A/B Test Araçları](#ab-test-ara%C3%A7lar%C4%B1)
+- [Hızlandırma Programları](#Hizlandirma-Programlari)
+- [API Oluşturma Araçları](#API-Olusturma-Araclari)
+- [Ölçümleme & Analytics](#Olcumleme--Analytics)
+- [A/B Test Araçları](#A/B-Test-Araclari)
 - [Takım İçi İletişim](#tak%C4%B1m-%C4%B0%C3%A7i-%C4%B0leti%C5%9Fim)
 - [Sunucu Yönetimi](#sunucu-y%C3%B6netimi)
 - [Proje Yönetim Araçları](#proje-y%C3%B6netim-ara%C3%A7lar%C4%B1)
@@ -28,7 +31,7 @@ Startup Araç ve İpuçları
 - [Muhasebe](#Finance)
 - [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
-####Prototip Araclari
+####Prototip Araçları
 - http://www.invisionapp.com/
 - http://www.proto.io
 - http://www.tapcanvas.com
@@ -42,10 +45,10 @@ Startup Araç ve İpuçları
 - http://www.layervault.com
 - http://www.invisionapp.com
 
-#### Site Trafiğini Büyütmek İçin
+####Site Trafigini Buyutmek icin
 - http://sumome.com/
 
-#### Müşteri Destek Servisleri
+####Musteri Destek Servisleri
 - www.zopim.com
 - www.jivochat.com
 - http://www.zendesk.com/
@@ -62,7 +65,7 @@ Startup Araç ve İpuçları
 - http://www.olark.com
 - http://www.snapengage.com
 
-#### Pazarlama
+####Pazarlama
 - http://www.goanimate.com
 
   ##### E-posta Pazarlama
@@ -85,10 +88,10 @@ Startup Araç ve İpuçları
 - https://serpbook.com
 - http://www.serprank.com
 
-#### Santral Çözümler
+####Santral Cozumleri
 - http://bulutfon.com
 
-#### Sanal Pos & Ödeme Entegrasyonları
+####Sanal Pos & Odeme Entegrasyonlari
 - http://www.payu.com.tr
 - https://www.iyzico.com/
 - https://www.braintreepayments.com
@@ -103,7 +106,7 @@ Startup Araç ve İpuçları
 - https://www.core.spreedly.com
 - https://www.wepay.com
 
-#### Sunucu Çözümleri
+####Sunucu Cozumleri
 - http://www.digitalocean.com
 - http://aws.amazon.com/ec2/
 - http://www.bustaname.com
@@ -111,28 +114,28 @@ Startup Araç ve İpuçları
 - http://www.ramnode.com
 - http://www.vultr.com
 
-#### Ücretsiz İcon Template PSD
+####Ucretsiz Icon Template PSD
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
 - https://www.behance.net/search?content=projects&user_tags=973679
 - http://www.cssauthor.com/freebies/
 
-#### Growth Hacking
+####Growth Hacking
 - http://eticaretdergisi.com/growth-hacking-nedir.html
 - http://www.etohum.com/onlineda-satislari-artirmak-icin-growth-hackerin-3-temel-stratejisi
 - http://mertricks.com/category/growth-hacking-2/
 - http://mertricks.com/
 
-#### Hızlandırma Programları
+####Hizlandirma Programlari
 - http://www.turn8.co/
 
-#### API Oluşturma Araçları
+####API Olusturma Araclari
 - https://magic.import.io/
 - https://www.kimonolabs.com/
 - http://www.optlook.net
 - http://deployd.com/
 
-#### Ölçümleme & Analytics
+####Olcumleme & Analytics
 - http://www.google.com/analytics/
 - https://www.kissmetrics.com/
 - https://metrica.yandex.com.tr
@@ -144,7 +147,7 @@ Startup Araç ve İpuçları
 ###### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
-#### A/B Test Araçları
+####A/B Test Araclari
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
 - www.optimizely.com
 
