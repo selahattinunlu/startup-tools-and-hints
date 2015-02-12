@@ -15,7 +15,7 @@ Startup Araç ve İpuçları
 - [Hızlandırma Programları](#hizlandirma-programlari)
 - [API Oluşturma Araçları](#api-olusturma-araclari)
 - [Ölçümleme & Analytics](#olcumleme--analytics)
-- [A/B Test Araçları](#a/b-test-araclari)
+- [A/B Test Araçları](#a--b-test-araclari)
 - [Takım İçi İletişim](#tak%C4%B1m-%C4%B0%C3%A7i-%C4%B0leti%C5%9Fim)
 - [Sunucu Yönetimi](#sunucu-y%C3%B6netimi)
 - [Proje Yönetim Araçları](#proje-y%C3%B6netim-ara%C3%A7lar%C4%B1)
