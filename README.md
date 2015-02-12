@@ -79,7 +79,7 @@ Startup Araç ve İpuçları
   - http://www.sendloop.com
   - http://www.userfox.com
 
-#### SEO
+####SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
 - http://seozeo.com.tr/
 - http://www.link-assistant.com/
@@ -269,7 +269,7 @@ Startup Araç ve İpuçları
 - http://www.aws.amazon.com/cloudsearch
 - http://www.searchblox.com
 
-#### Sistem İzleme
+####Sistem İzleme
 - http://www.appneta.com
 - http://www.riemann.io
 - http://www.github.com/twitter/zipkin
@@ -278,7 +278,7 @@ Startup Araç ve İpuçları
 - http://www.uptimerobot.com
 - http://www.wheresitup.com
 
-#### Diğer Araçlar
+####Diğer Araçlar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
 - http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
@@ -287,7 +287,7 @@ Startup Araç ve İpuçları
 - https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
 - https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
 
-# Makaleler
+#Makaleler
 
   #### Renklerin Önemi
   - http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
@@ -296,7 +296,7 @@ Startup Araç ve İpuçları
   - http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
   - http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
 
-  ##### A/B Testi
+  #####A/B Testi
   - http://www.userspots.com/ab-testi/
   - http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
 
