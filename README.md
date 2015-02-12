@@ -8,7 +8,7 @@ Startup Araç ve İpuçları
 - [Pazarlama](#pazarlama)
 - [Seo](#seo)
 - [Santral Çözümleri](#santral-cozumleri)
-- [Sanal Pos & Ödeme Çözümleri](#Sanal-Pos--Odeme-Entegrasyonlari)
+- [Sanal Pos & Ödeme Çözümleri](#Sanal-Pos-Odeme-Entegrasyonlari)
 - [Sunucu Çözümleri](#Sunucu-Cozumleri)
 - [Ücretsiz İkon Tasarım PSD](#Ucretsiz-Icon-Template-PSD)
 - [Growth Hacking](#growth-hacking)
@@ -31,7 +31,7 @@ Startup Araç ve İpuçları
 - [Muhasebe](#Finance)
 - [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
-####Prototip Araçları
+####Prototip Araclari
 - http://www.invisionapp.com/
 - http://www.proto.io
 - http://www.tapcanvas.com
