@@ -297,14 +297,14 @@ Startup Araç ve İpuçları
 
 #Makaleler
 
-  ####Renklerin Önemi
+####Renklerin Önemi
   - http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
   - http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
   - http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
   - http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
   - http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
 
-  #####A/B Testi
+#####A/B Testi
   - http://www.userspots.com/ab-testi/
   - http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
 
