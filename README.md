@@ -1,7 +1,7 @@
 Startup Araç ve İpuçları
 =======================
 
-- [Prototip Araçları](#prototip-arac%C4%B1)
+- [Prototip Araçları](#prototip-aracı)
 - [Arayüz](#arayuz)
 - [Müşteri Destek Servisleri](#m%C3%BC%C5%9Fteri-destek-servisleri)
 - [Pazarlama](#pazarlama)
@@ -28,7 +28,7 @@ Startup Araç ve İpuçları
 - [Muhasebe](#Finance)
 - [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
-#### Prototip Aracı
+####Prototip Aracı
 - http://www.invisionapp.com/
 - http://www.proto.io
 - http://www.tapcanvas.com
