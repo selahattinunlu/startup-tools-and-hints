@@ -16,20 +16,28 @@ Startup Araç ve İpuçları
 - [API Oluşturma Araçları](#api-olusturma-araclari)
 - [Ölçümleme & Analytics](#olcumleme--analytics)
 - [A/B Test Araçları](#a---b-test-araclari)
-- [Takım İçi İletişim](#tak%C4%B1m-%C4%B0%C3%A7i-%C4%B0leti%C5%9Fim)
-- [Sunucu Yönetimi](#sunucu-y%C3%B6netimi)
-- [Proje Yönetim Araçları](#proje-y%C3%B6netim-ara%C3%A7lar%C4%B1)
-- [Güvenlik](#g%C3%BCvenlik-ara%C3%A7lar%C4%B1)
-- [Medya Takip Araçları](#medya-takip-ara%C3%A7lar%C4%B1)
+- [Takım İçi İletişim](#takim-ici-iletisim)
+- [Sunucu Yönetimi](#sunucu-yonetimi)
+- [Proje Yönetim Araçları](#proje-yonetim-araclari)
+- [Güvenlik](#guvenlik-araclari)
+- [Medya Takip Araçları](#medya-takip-araclari)
 - [Big Data](#big-data)
-- [Marketing](#Video & Caps)
+- [Web Site Analiz Araçları](#web-site-analiz-araclari)
+- [Anket Araçları](#anket-araclari)
+- [Web Site Browser Test Araçları](#web-site-browser-test-araclari)
+- [Muhasebe ve Faturalama Araçları](#muhasebe-ve-faturalama-araclari)
+- [Marketing](#video-caps)
 - [Müşteri Desteği](#Crm)
-- [Ürünü Yayına Alma](#Yardım Masaları)
-- [İnsan Kaynaklari](#Ik)
-- [Log İzleme](#Log)
-- [Arama](#Search)
-- [Muhasebe](#Finance)
-- [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
+- [Ürünü Yayına Alma](#urunu-yayina-alma)
+- [İnsan Kaynakları](#insan-kaynaklari)
+- [Entegrasyon Sürekliliği Kod Kalitesi](#entegrasyon-surekliligi--kod-kalitesi)
+- [Log İzleme](#log-izleme)
+- [Trafik Kaynakları & Reklam Platformları](#trafik-kaynaklari--reklam-platformlari)
+- [Arama](#arama)
+- [Sistem Izleme](#sistem-izleme)
+- [Muhasebe](#finance)
+- [Diğer Araçlar](#diger-araclar)
+- [Makaleler](#makaleler)
 
 ####Prototip Araclari
 - http://www.invisionapp.com/
@@ -151,7 +159,7 @@ Startup Araç ve İpuçları
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
 - www.optimizely.com
 
-#### Takım İçi İletişim
+####Takim Ici Iletisim
 - http://www.slack.com
 - https://hall.com
 - http://www.kandanapp.com
@@ -167,10 +175,10 @@ Startup Araç ve İpuçları
 - http://www.convo.com
 - http://www.sqwiggle.com
 
-#### Sunucu Yönetimi
+####Sunucu Yonetimi
 - https://commando.io/
 
-#### Proje Yönetim Araçları
+####Proje Yonetim Araclari
 - https://producteev.com/
 - http://trello.com
 - http://podio.com
@@ -178,28 +186,28 @@ Startup Araç ve İpuçları
 - https://dapulse.com/
 - https://www.asana.com/
 
-#### Güvenlik Araçları
+####Guvenlik Araclari
 - https://detectify.com/
 
-#### Medya Takip Araçları
+####Medya Takip Araclari
 - http://mention.com
 
-#### Big Data
+####Big Data
 - https://www.feedzai.com/
 
-#### Web Site Analiz Araçları
+####Web Site Analiz Araclari
 - http://quicksprout.com (SEO, Sosyal Medya vb yönlerde)
 - http://yslow.org/
 - http://www.google.com/webmasters/
 - http://gtmetrix.com/
 
-#### Anket Araçları
+####Anket Araclari
 - http://www.surveymonkey.com
 
-#### Web Site Browser Test Araçları
+####Web Site Browser Test Araclari
 - http://www.browserstack.com/
 
-#### Muhasebe ve Faturalama Araçları
+####Muhasebe Ve Faturalama Araclari
 - https://www.waveapps.com/
 - http://parasut.com
 - http://www.getharvest.com
@@ -213,18 +221,18 @@ Startup Araç ve İpuçları
 - http://www.paydirtapp.com
 - http://www.spiketime.net
 
-#### Ürünü Yayına Alma
+####Urunu Yayina Alma
 - http://www.getchef.com
 - http://www.fabfile.org
 - http://www.puppetlabs.com
 - http://www.ansible.com
 - http://www.vagrantup.com
 
-#### İnsan Kaynakları
+####Insan Kaynaklari
 - http://www.workday.com
 - http://www.lever.co
 
-#### Entegrasyon Sürekliliği/Kod Kalitesi
+####Entegrasyon Surekliligi & Kod Kalitesi
 - http://www.travis-ci.org
 - http://www.appveyor.com
 - http://www.circleci.com
@@ -238,7 +246,7 @@ Startup Araç ve İpuçları
 - http://www.atlassian.com/software/bamboo
 - http://www.buildbox.io
 
-#### Log İzleme
+####Log Izleme
 - http://www.loggly.com
 - http://www.papertrailapp.com
 - http://www.logentries.com
@@ -249,7 +257,7 @@ Startup Araç ve İpuçları
 - http://www.graphdat.com
 - http://www.stackify.com
 
-#### Trafik Kaynakları/Reklam Platformları
+####Trafik Kaynaklari & Reklam Platformlari
 - http://www.neoreach.com
 - http://www.nrelate.com
 - http://www.sitescout.com
@@ -261,7 +269,7 @@ Startup Araç ve İpuçları
 - http://www.adwords.google.com/
 - http://www.facebook.com/advertising
 
-#### Arama
+####Arama
 - http://www.bonsai.io
 - http://www.websolr.com
 - http://www.swiftype.com
@@ -269,7 +277,7 @@ Startup Araç ve İpuçları
 - http://www.aws.amazon.com/cloudsearch
 - http://www.searchblox.com
 
-####Sistem İzleme
+####Sistem Izleme
 - http://www.appneta.com
 - http://www.riemann.io
 - http://www.github.com/twitter/zipkin
@@ -278,7 +286,7 @@ Startup Araç ve İpuçları
 - http://www.uptimerobot.com
 - http://www.wheresitup.com
 
-####Diğer Araçlar
+####Diger Araclar
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
 - http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
