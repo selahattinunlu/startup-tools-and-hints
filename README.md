@@ -297,7 +297,7 @@ Startup Araç ve İpuçları
 
 #Makaleler
 
-  #### Renklerin Önemi
+  ####Renklerin Önemi
   - http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
   - http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
   - http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
