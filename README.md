@@ -8,7 +8,7 @@ Startup Araç ve İpuçları
 - [Pazarlama](#pazarlama)
 - [Seo](#seo)
 - [Santral Çözümleri](#santral-cozumleri)
-- [Sanal Pos & Ödeme Çözümleri](#sanal-pos-odeme-entegrasyonlari)
+- [Sanal Pos & Ödeme Çözümleri](#sanal-pos--odeme-entegrasyonlari)
 - [Sunucu Çözümleri](#sunucu-cozumleri)
 - [Ücretsiz İkon Tasarım PSD](#ucretsiz-icon-template-psd)
 - [Growth Hacking](#growth-hacking)
@@ -45,7 +45,7 @@ Startup Araç ve İpuçları
 - http://www.layervault.com
 - http://www.invisionapp.com
 
-####Site Trafigini Buyutmek icin
+####Site Trafigini Buyutmek Icin
 - http://sumome.com/
 
 ####Musteri Destek Servisleri
