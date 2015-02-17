@@ -2,12 +2,12 @@ Startup Araç ve İpuçları
 =======================
 
 - [Prototip Araçları](#prototip-arac%C4%B1)
-- [Arayüz](#arayuz)
+- [Arayüz](#aray%C3%BCz)
 - [Müşteri Destek Servisleri](#m%C3%BC%C5%9Fteri-destek-servisleri)
 - [Pazarlama](#pazarlama)
 - [Seo](#seo)
 - [Santral Çözümleri](#santral-%C3%87%C3%B6z%C3%BCmler)
-- [Sanal Pos & Ödeme Çözümleri](#faturalama-ve-%C3%96deme-s%C3%BCre%C3%A7leri)
+- [Sanal Pos & Ödeme Çözümleri](#sanal-pos--%C3%96deme-entegrasyonlar%C4%B1)
 - [Sunucu Çözümleri](#sunucu-%C3%87%C3%B6z%C3%BCmleri)
 - [Ücretsiz İkon Tasarım PSD](#%C3%9Ccretsiz-%C4%B0con-template-psd)
 - [Growth Hacking](#growth-hacking)
@@ -19,13 +19,17 @@ Startup Araç ve İpuçları
 - [Güvenlik](#g%C3%BCvenlik-ara%C3%A7lar%C4%B1)
 - [Medya Takip Araçları](#medya-takip-ara%C3%A7lar%C4%B1)
 - [Big Data](#big-data)
-- [Marketing](#Video & Caps)
-- [Müşteri Desteği](#Crm)
-- [Ürünü Yayına Alma](#Yardım Masaları)
-- [İnsan Kaynaklari](#Ik)
-- [Log İzleme](#Log)
-- [Arama](#Search)
-- [Muhasebe](#Finance)
+- [Web Site Analiz Araçları](#web-site-analiz-ara%C3%A7lar%C4%B1)
+- [Anket Araçları](#anket-ara%C3%A7lar%C4%B1)
+- [Web Site Browser Test Araçları](#web-site-browser-test-ara%C3%A7lar%C4%B1)
+- [Muhasebe ve Faturalama Araçları](#muhasebe-ve-faturalama-ara%C3%A7lar%C4%B1)
+- [Ürünü Yayına Alma](#%C3%9Cr%C3%BCn%C3%BC-yay%C4%B1na-alma)
+- [İnsan Kaynakları](#%C4%B0nsan-kaynaklar%C4%B1)
+- [Entegrasyon Sürekliliği/Kod Kalitesi](#entegrasyon-s%C3%BCreklili%C4%9Fikod-kalitesi)
+- [Log İzleme](#og-%C4%B0zleme)
+- [Trafik Kaynakları/Reklam Platformları](#trafik-kaynaklar%C4%B1reklam-platformlar%C4%B1)
+- [Arama](#arama)
+- [Sistem İzleme](#sistem-%C4%B0zleme)
 - [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
 #### Prototip Aracı
@@ -174,6 +178,13 @@ Startup Araç ve İpuçları
 - https://www.atlassian.com/software/jira
 - https://dapulse.com/
 - https://www.asana.com/
+- http://www.bitrix24.com/
+- https://www.wrike.com/
+- http://www.dobambam.com/
+- https://taiga.io/
+- https://freedcamp.com/
+- http://www.getsoloapp.com/
+- https://duetapp.com/
 
 #### Güvenlik Araçları
 - https://detectify.com/
