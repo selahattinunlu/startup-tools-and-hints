@@ -110,10 +110,12 @@ Startup Araç ve İpuçları
 #### Sunucu Çözümleri
 - http://www.digitalocean.com
 - http://aws.amazon.com/ec2/
+- https://www.heroku.com/
 - http://www.bustaname.com
 - http://www.linode.com
 - http://www.ramnode.com
 - http://www.vultr.com
+- http://www.vps.me/
 
 #### Ücretsiz İcon Template PSD
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
@@ -281,7 +283,6 @@ Startup Araç ve İpuçları
 - http://www.appneta.com
 - http://www.riemann.io
 - http://www.github.com/twitter/zipkin
-- http://www.github.com/heroku/pulse
 - http://www.pingdom.com
 - http://www.uptimerobot.com
 - http://www.wheresitup.com
