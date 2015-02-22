@@ -288,6 +288,7 @@ Startup Araç ve İpuçları
 - http://www.wheresitup.com
 
 #### Diğer Araçlar
+- https://toolyo.com/ (Birçok aracın kategorilere göre listelendiği web sitesi)
 - http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
 - http://www.producthunt.com/e/startup-toolkit
 - http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
