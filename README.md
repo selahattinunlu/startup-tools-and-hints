@@ -239,11 +239,10 @@ Startup Araç ve İpuçları
 - http://www.appveyor.com
 - http://www.circleci.com
 - http://www.codeclimate.com
-- http://www.semaphoreapp.com
+- http://www.semaphoreci.com
 - http://www.cruisecontrolrb.thoughtworks.com
 - http://www.integrityapp.com
 - http://www.tddium.com
-- http://www.semaphoreapp.com
 - http://www.jenkins-ci.org
 - http://www.atlassian.com/software/bamboo
 - http://www.buildbox.io
