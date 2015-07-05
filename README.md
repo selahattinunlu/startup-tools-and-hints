@@ -1,22 +1,39 @@
 Startup Tools and Hints (Startup Araçları ve İpuçları)
 =======================
 
-#### Prototype Tools (Prototip Araçları)
-- http://www.invisionapp.com/
-- http://www.proto.io
-- http://www.tapcanvas.com
-
-#### User Interface (Arayüz Servisleri)
-- http://dandkagency.com/extensions/velositey-v2/
-- www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
-- http://www.pixelapse.com
-- http://www.conceptShare.com
-- http://www.notableapp.com
-- http://www.layervault.com
-- http://www.invisionapp.com
-
-#### Tools to Grow Your Website’s Traffic (Web Sitenizin trafiğini büyütmek için araçlar)
-- http://sumome.com/
+#### Project Management (Proje Yönetim Araçları)
+- http://www.breeze.pm/
+- https://www.blossom.co/
+- http://www.brightpod.com/
+- https://www.codementor.io/
+- http://canvazify.com/
+- http://www.getchime.com/
+- http://www.fusioo.com/
+- http://www.hiveflux.com/
+- http://knowlium.com/
+- http://siasto.com/
+- https://taskulu.com/
+- https://team.do/
+- https://www.twoodo.com
+- https://github.com/libreboard/libreboard
+- http://uberito.com/
+- http://yoke.io/
+- https://www.bitrix24.com/
+- https://basecamp.com/
+- http://www.aha.io/
+- https://producteev.com/
+- http://trello.com
+- http://podio.com
+- https://www.atlassian.com/software/jira
+- https://dapulse.com/
+- https://www.asana.com/
+- http://www.bitrix24.com/
+- https://www.wrike.com/
+- http://www.dobambam.com/
+- https://taiga.io/
+- https://freedcamp.com/
+- http://www.getsoloapp.com/
+- https://duetapp.com/
 
 #### Customer Service / Live Chat (Müşteri Destek Servisleri)
 - www.zopim.com
@@ -34,6 +51,58 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - http://www.sirportly.com
 - http://www.olark.com
 - http://www.snapengage.com
+
+#### Server & Hosting (Sunucu Çözümleri)
+- http://www.digitalocean.com
+- http://aws.amazon.com/ec2/
+- https://www.heroku.com/
+- http://www.bustaname.com
+- http://www.linode.com
+- http://www.ramnode.com
+- http://www.vultr.com
+- http://www.vps.me/
+
+#### Communication (Takım İçi İletişim)
+- http://www.slack.com
+- https://hall.com
+- http://www.kandanapp.com
+- http://www.yammer.com
+- http://www.limechat
+- http://www.flowdock
+- http://www.hipchat.com
+- http://www.campfire
+- http://www.skype.com
+- http://www.gotomeeting.com/online/default
+- http://www.irccloud.com
+- http://www.kato.im
+- http://www.convo.com
+- http://www.sqwiggle.com
+
+#### Dashboard / Analytics (Ölçümleme & Analytics)
+- http://www.google.com/analytics/
+- https://www.kissmetrics.com/
+- https://metrica.yandex.com.tr
+- http://www.webanalitigi.com/olcumleme-araclari/
+- http://www.intercom.io
+- https://segment.com/
+- http://www.crazyegg.com/
+
+#### Prototype Tools (Prototip Araçları)
+- http://www.invisionapp.com/
+- http://www.proto.io
+- http://www.tapcanvas.com
+
+#### User Interface (Arayüz Servisleri)
+- http://dandkagency.com/extensions/velositey-v2/
+- www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
+- http://www.pixelapse.com
+- http://www.conceptShare.com
+- http://www.notableapp.com
+- http://www.layervault.com
+- http://www.invisionapp.com
+
+#### Tools to Grow Your Website’s Traffic (Web Sitenizin trafiğini büyütmek için araçlar)
+- http://sumome.com/
 
 #### Marketing (Pazarlama)
 - http://www.goanimate.com
@@ -76,16 +145,6 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - https://www.core.spreedly.com
 - https://www.wepay.com
 
-#### Server & Hosting (Sunucu Çözümleri)
-- http://www.digitalocean.com
-- http://aws.amazon.com/ec2/
-- https://www.heroku.com/
-- http://www.bustaname.com
-- http://www.linode.com
-- http://www.ramnode.com
-- http://www.vultr.com
-- http://www.vps.me/
-
 #### Free Icon, Template, PSD (Ücretsiz İcon Template PSD)
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
@@ -107,15 +166,6 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - http://www.optlook.net
 - http://deployd.com/
 
-#### Dashboard / Analytics (Ölçümleme & Analytics)
-- http://www.google.com/analytics/
-- https://www.kissmetrics.com/
-- https://metrica.yandex.com.tr
-- http://www.webanalitigi.com/olcumleme-araclari/
-- http://www.intercom.io
-- https://segment.com/
-- http://www.crazyegg.com/
-
 ###### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
@@ -123,58 +173,8 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
 - www.optimizely.com
 
-#### Communication (Takım İçi İletişim)
-- http://www.slack.com
-- https://hall.com
-- http://www.kandanapp.com
-- http://www.yammer.com
-- http://www.limechat
-- http://www.flowdock
-- http://www.hipchat.com
-- http://www.campfire
-- http://www.skype.com
-- http://www.gotomeeting.com/online/default
-- http://www.irccloud.com
-- http://www.kato.im
-- http://www.convo.com
-- http://www.sqwiggle.com
-
 #### Server Management (Sunucu Yönetimi)
 - https://commando.io/
-
-#### Project Management (Proje Yönetim Araçları)
-- http://www.breeze.pm/
-- https://www.blossom.co/
-- http://www.brightpod.com/
-- https://www.codementor.io/
-- http://canvazify.com/
-- http://www.getchime.com/
-- http://www.fusioo.com/
-- http://www.hiveflux.com/
-- http://knowlium.com/
-- http://siasto.com/
-- https://taskulu.com/
-- https://team.do/
-- https://www.twoodo.com
-- https://github.com/libreboard/libreboard
-- http://uberito.com/
-- http://yoke.io/
-- https://www.bitrix24.com/
-- https://basecamp.com/
-- http://www.aha.io/
-- https://producteev.com/
-- http://trello.com
-- http://podio.com
-- https://www.atlassian.com/software/jira
-- https://dapulse.com/
-- https://www.asana.com/
-- http://www.bitrix24.com/
-- https://www.wrike.com/
-- http://www.dobambam.com/
-- https://taiga.io/
-- https://freedcamp.com/
-- http://www.getsoloapp.com/
-- https://duetapp.com/
 
 #### Security (Güvenlik Araçları)
 - https://detectify.com/
