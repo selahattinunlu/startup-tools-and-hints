@@ -174,6 +174,25 @@ Startup Araç ve İpuçları
 - https://commando.io/
 
 #### Proje Yönetim Araçları
+- http://www.breeze.pm/
+- https://www.blossom.co/
+- http://www.brightpod.com/
+- https://www.codementor.io/
+- http://canvazify.com/
+- http://www.getchime.com/
+- http://www.fusioo.com/
+- http://www.hiveflux.com/
+- http://knowlium.com/
+- http://siasto.com/
+- https://taskulu.com/
+- https://team.do/
+- https://www.twoodo.com
+- https://github.com/libreboard/libreboard
+- http://uberito.com/
+- http://yoke.io/
+- https://www.bitrix24.com/
+- https://basecamp.com/
+- http://www.aha.io/
 - https://producteev.com/
 - http://trello.com
 - http://podio.com
