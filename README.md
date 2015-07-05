@@ -32,12 +32,12 @@ Startup Araç ve İpuçları
 - [Sistem İzleme](#sistem-%C4%B0zleme)
 - [Diğer Araçlar](#di%C4%9Fer-ara%C3%A7lar)
 
-#### Prototip Aracı
+#### Prototype Tools (Prototip Araçları)
 - http://www.invisionapp.com/
 - http://www.proto.io
 - http://www.tapcanvas.com
 
-#### Arayüz
+#### User Interface (Arayüz Servisleri)
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
 - http://www.pixelapse.com
@@ -46,10 +46,10 @@ Startup Araç ve İpuçları
 - http://www.layervault.com
 - http://www.invisionapp.com
 
-#### Site Trafiğini Büyütmek İçin
+#### Tools to Grow Your Website’s Traffic (Web Sitenizin trafiğini büyütmek için araçlar)
 - http://sumome.com/
 
-#### Müşteri Destek Servisleri
+#### Customer Service / Live Chat (Müşteri Destek Servisleri)
 - www.zopim.com
 - www.jivochat.com
 - http://www.zendesk.com/
@@ -66,10 +66,10 @@ Startup Araç ve İpuçları
 - http://www.olark.com
 - http://www.snapengage.com
 
-#### Pazarlama
+#### Marketing (Pazarlama)
 - http://www.goanimate.com
 
-  ##### E-posta Pazarlama
+  ##### E-mail Marketing (E-posta Pazarlama)
   - http://www.customer.io
   - http://www.getvero.com
   - http://www.mailchimp.com
@@ -107,7 +107,7 @@ Startup Araç ve İpuçları
 - https://www.core.spreedly.com
 - https://www.wepay.com
 
-#### Sunucu Çözümleri
+#### Server & Hosting (Sunucu Çözümleri)
 - http://www.digitalocean.com
 - http://aws.amazon.com/ec2/
 - https://www.heroku.com/
@@ -117,7 +117,7 @@ Startup Araç ve İpuçları
 - http://www.vultr.com
 - http://www.vps.me/
 
-#### Ücretsiz İcon Template PSD
+#### Free Icon, Template, PSD (Ücretsiz İcon Template PSD)
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
 - https://www.behance.net/search?content=projects&user_tags=973679
@@ -132,13 +132,13 @@ Startup Araç ve İpuçları
 #### Hızlandırma Programları
 - http://www.turn8.co/
 
-#### API Oluşturma Araçları
+#### Tools to create API (API Oluşturma Araçları)
 - https://magic.import.io/
 - https://www.kimonolabs.com/
 - http://www.optlook.net
 - http://deployd.com/
 
-#### Ölçümleme & Analytics
+#### Dashboard / Analytics (Ölçümleme & Analytics)
 - http://www.google.com/analytics/
 - https://www.kissmetrics.com/
 - https://metrica.yandex.com.tr
@@ -150,11 +150,11 @@ Startup Araç ve İpuçları
 ###### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
-#### A/B Test Araçları
+#### A/B Test (A/B Test Araçları)
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
 - www.optimizely.com
 
-#### Takım İçi İletişim
+#### Communication (Takım İçi İletişim)
 - http://www.slack.com
 - https://hall.com
 - http://www.kandanapp.com
@@ -170,10 +170,10 @@ Startup Araç ve İpuçları
 - http://www.convo.com
 - http://www.sqwiggle.com
 
-#### Sunucu Yönetimi
+#### Server Management (Sunucu Yönetimi)
 - https://commando.io/
 
-#### Proje Yönetim Araçları
+#### Project Management (Proje Yönetim Araçları)
 - http://www.breeze.pm/
 - https://www.blossom.co/
 - http://www.brightpod.com/
@@ -207,7 +207,7 @@ Startup Araç ve İpuçları
 - http://www.getsoloapp.com/
 - https://duetapp.com/
 
-#### Güvenlik Araçları
+#### Security (Güvenlik Araçları)
 - https://detectify.com/
 
 #### Medya Takip Araçları
@@ -222,10 +222,10 @@ Startup Araç ve İpuçları
 - http://www.google.com/webmasters/
 - http://gtmetrix.com/
 
-#### Anket Araçları
+#### Survey (Anket Araçları)
 - http://www.surveymonkey.com
 
-#### Web Site Browser Test Araçları
+#### Web Site Browser Test
 - http://www.browserstack.com/
 
 #### Muhasebe ve Faturalama Araçları
@@ -314,17 +314,3 @@ Startup Araç ve İpuçları
 - https://www.hellobar.com/
 - https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
 - https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
-
-# Makaleler
-
-  #### Renklerin Önemi
-  - http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
-  - http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
-  - http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
-  - http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
-  - http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
-
-  ##### A/B Testi
-  - http://www.userspots.com/ab-testi/
-  - http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
-
