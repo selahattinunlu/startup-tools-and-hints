@@ -36,6 +36,7 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - https://duetapp.com/
 
 #### Customer Service / Live Chat (Müşteri Destek Servisleri)
+- http://canliyardim.co/
 - www.zopim.com
 - www.jivochat.com
 - http://www.zendesk.com/
@@ -77,6 +78,7 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - http://www.kato.im
 - http://www.convo.com
 - http://www.sqwiggle.com
+- https://rocket.chat/
 
 #### Dashboard / Analytics (Ölçümleme & Analytics)
 - http://www.google.com/analytics/
@@ -144,6 +146,8 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - https://www.spreedly.com
 - https://www.core.spreedly.com
 - https://www.wepay.com
+- https://www.ipara.com
+- https://turkpos.com.tr/
 
 #### Free Icon, Template, PSD (Ücretsiz İcon Template PSD)
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
