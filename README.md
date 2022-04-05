@@ -287,3 +287,4 @@ Startup Tools and Hints (Startup Araçları ve İpuçları)
 - https://www.hellobar.com/
 - https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
 - https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
+- https://mojoauth.com/ (Passwordless authentication tool: Parolasız kimlik doğrulama aracı)
